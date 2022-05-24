@@ -10,7 +10,8 @@ The purpose of this project is to concive investors that a bike-sharing program 
 
 ## Results
 
-Please follow the link to find the The Tableau story created for this analysis: [link to the Story](https://public.tableau.com/shared/GXXZS3DK3?:display_count=n&:origin=viz_share_link)
+Please follow the link to find the The Tableau story created for this analysis: 
+[Link to the Story](https://public.tableau.com/shared/GXXZS3DK3?:display_count=n&:origin=viz_share_link)
 There are 4 points in the Tableau story created for the presentation to the investors. They are as follows:
 
 ![Dashboard 1](https://github.com/Zarif601/Bike-Sharing/blob/main/Images/Dashboard%201.PNG)
