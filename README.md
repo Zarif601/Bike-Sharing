@@ -11,7 +11,7 @@ The purpose of this project is to concive investors that a bike-sharing program 
 ## Results
 
 There are 4 points in the Tableau story created for the presentation to the investors. They are as follows:
-
+![link to dashboard](https://public.tableau.com/shared/GXXZS3DK3?:display_count=n&:origin=viz_share_link)
 ![Dashboard 1](https://github.com/Zarif601/Bike-Sharing/blob/main/Images/Dashboard%201.PNG)
 
 1. This dashboard demonstrates the length of time bikes are checkout out for all riders. It also has a heatmap which shows the number of bike trips for all riders for each hour of each day of the week.
