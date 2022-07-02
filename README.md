@@ -6,7 +6,7 @@ This project uses Tableau to visualize bike trip data from the Citi Bike program
 
 ### Purpose
 
-The purpose of this project is to concive investors that a bike-sharing program in Des Moines is a good business proposal. To demonstrate that through visualization, a bike trips analysis is performed on Citi Bike program data from a similar program in NYC.
+The purpose of this project is to convince investors that a bike-sharing program in Des Moines is a good business proposal. To demonstrate that through visualization, a bike trips analysis is performed on Citi Bike program data from a similar program in NYC.
 
 ## Results
 
